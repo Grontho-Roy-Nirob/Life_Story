@@ -5,4 +5,5 @@ Now I'm a Bsc student.
 I have started my full stack web development job.
 I am developing my skill on C#
 logo alignment is centered.
-This text is added in main branch.
+New line is added in feature branch.
+
