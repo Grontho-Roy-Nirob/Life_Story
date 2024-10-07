@@ -1,6 +1,6 @@
 This is test1.
 I have done my SSC 2019.
-I have done my HSC 2021.
+I have done my HSC 2021 from MCPSC.
 Now I'm a Bsc student.
 I have started my full stack web development job.
 I am developing my skill on C#.
